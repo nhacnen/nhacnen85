@@ -1,0 +1,461 @@
+{
+  "free_keys": [
+    {
+      "key": "KTT67556115429",
+      "key_type": "free",
+      "status": "deleted",
+      "device_id": "56cdcdb1-ab15-4298-aca5-c40d0f78",
+      "shortened_url": "https://yeumoney.com/Kh4qIKZx",
+      "created_at": "2025-04-24T20:01:30.728246+07:00",
+      "expiration_date": "2025-04-25T20:01:24.572825+07:00",
+      "duration_minutes": 1440,
+      "is_active": false,
+      "disabled": true
+    },
+    {
+      "key": "KTT67556115429",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "56cdcdb1-ab15-4298-aca5-0d0f78",
+      "shortened_url": "https://yeumoney.com/Kh4qIKZx",
+      "created_at": "2025-04-24T20:05:26.136605+07:00",
+      "expiration_date": "2025-04-25T20:05:20.225264+07:00",
+      "duration_minutes": 1440,
+      "is_active": true
+    },
+    {
+      "key": "KTT70256115429",
+      "key_type": "free",
+      "status": "deleted",
+      "device_id": "56cdcdb1-ab15-4298-a5-00f78",
+      "shortened_url": "https://yeumoney.com/h-Q6WdRv",
+      "created_at": "2025-04-25T14:21:40.889909+07:00",
+      "expiration_date": "2025-04-26T14:21:35.153805+07:00",
+      "duration_minutes": 1440,
+      "is_active": false,
+      "disabled": true
+    },
+    {
+      "key": "KTT75656115429",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "56cdcdb1-ab15-4298-a5-0f78",
+      "shortened_urls": [
+        "https://yeumoney.com/QWMddoPUlUU",
+        "https://yeumoney.com/F4ZyeLr",
+        "https://yeumoney.com/F2Fpm"
+      ],
+      "created_at": "2025-04-27T14:09:57.287064+07:00",
+      "expiration_date": "2025-04-29T14:09:51.774482+07:00",
+      "duration_minutes": 2880,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT75687864786",
+      "key_type": "free",
+      "status": "deleted",
+      "device_id": "c87eae8b-e6bc-4ab7-8677-6cf006e17e86",
+      "shortened_urls": [
+        "https://yeumoney.com/DvKYNQvE"
+      ],
+      "created_at": "2025-04-27T20:11:31.864777+07:00",
+      "expiration_date": "2025-04-28T20:11:26.579782+07:00",
+      "duration_minutes": 1440,
+      "is_active": false,
+      "disabled": true
+    },
+    {
+      "key": "KTT78327583544",
+      "key_type": "free",
+      "status": "deleted",
+      "device_id": "a2d7dfa5-e835-44aa-b28d-38c0dfc7eb8b",
+      "shortened_urls": [
+        "https://yeumoney.com/xut18",
+        "https://yeumoney.com/eFjsLVDAZ",
+        "https://yeumoney.com/zzO9mHGG4mYd",
+        "https://yeumoney.com/YNeKSYZO",
+        "https://yeumoney.com/-Aw2Oo"
+      ],
+      "created_at": "2025-04-28T11:59:47.683461+07:00",
+      "expiration_date": "2025-05-01T11:59:42.366925+07:00",
+      "duration_minutes": 4320,
+      "is_active": false,
+      "disabled": true
+    },
+    {
+      "key": "KTT78301583146",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "0e15bfdf-d831-4f64-b2d7-92931a2bf671",
+      "shortened_urls": [
+        "https://yeumoney.com/mNkUS"
+      ],
+      "created_at": "2025-04-28T19:11:20.031897+07:00",
+      "expiration_date": "2025-04-29T19:11:14.639200+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT78333449149",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "33dc4e4d-e91c-493e-a796-16b52d08a98f",
+      "shortened_urls": [
+        "https://yeumoney.com/HBGpil",
+        "https://yeumoney.com/0_inQfbXE",
+        "https://yeumoney.com/gGsijC_U4m",
+        "https://yeumoney.com/vjxpm8G",
+        "https://yeumoney.com/gh9v_WNOd"
+      ],
+      "created_at": "2025-04-28T19:37:00.673530+07:00",
+      "expiration_date": "2025-05-01T19:36:55.027018+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT78343551445",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "4f35c5ee-fd1f-4459-98b2-ea8250576543",
+      "shortened_urls": [
+        "https://yeumoney.com/hn60Ik7",
+        "https://yeumoney.com/Gftht",
+        "https://yeumoney.com/txLOCJ2O",
+        "https://yeumoney.com/3W7O",
+        "https://yeumoney.com/jSddyJUjX"
+      ],
+      "created_at": "2025-04-28T21:12:29.875295+07:00",
+      "expiration_date": "2025-05-01T21:12:24.339173+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT81003261943",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "0f3af2c6-1db9-439e-ba0c-3ead2bf5b485",
+      "shortened_urls": [
+        "https://yeumoney.com/sqmeH"
+      ],
+      "created_at": "2025-04-29T11:38:36.898981+07:00",
+      "expiration_date": "2025-04-30T11:38:31.155933+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT8101",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfMzU1ZWQxYTIzOGJmYjUyNDMyODdkNTc=",
+      "shortened_urls": [
+        "https://yeumoney.com/z-5rHaGrn"
+      ],
+      "created_at": "2025-04-29T12:01:26.221521+07:00",
+      "expiration_date": "2025-04-30T12:01:20.804642+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT8103212",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfODU3ZGM2NWRhYWM1NzU2ZWIxMzNiNTY=",
+      "shortened_urls": [
+        "https://yeumoney.com/QN7p4f"
+      ],
+      "created_at": "2025-04-29T20:42:13.588082+07:00",
+      "expiration_date": "2025-04-30T20:42:08.043567+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT81003",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfMmZjNWIxNTJjNDFiYzY0ZDFiNTk3NzQ=",
+      "shortened_urls": [
+        "https://yeumoney.com/BwIgQ6fQ8"
+      ],
+      "created_at": "2025-04-29T21:46:32.536477+07:00",
+      "expiration_date": "2025-04-30T21:46:27.062782+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83755963201",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "cf5c5963-2018-4462-a5ee-f6ab41e01243",
+      "shortened_urls": [
+        "https://yeumoney.com/Iln1Nz_GjcP"
+      ],
+      "created_at": "2025-04-30T00:55:25.915529+07:00",
+      "expiration_date": "2025-05-01T00:55:20.441453+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83771726724",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "7fcab1d7-2672-4767-a6bf-07eabad46634",
+      "shortened_urls": [
+        "https://yeumoney.com/L3JZxc"
+      ],
+      "created_at": "2025-04-30T02:23:47.467173+07:00",
+      "expiration_date": "2025-05-01T02:23:42.314853+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83731146322",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "3114efb6-3224-4b6f-b9f9-1d5ecb08444b",
+      "shortened_urls": [
+        "https://yeumoney.com/E-WnTHHSqH-"
+      ],
+      "created_at": "2025-04-30T02:43:18.386789+07:00",
+      "expiration_date": "2025-05-01T02:43:12.854951+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83777327372",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "773df2a7-37d2-4ab9-8e7a-df006082440f",
+      "shortened_urls": [
+        "https://yeumoney.com/klwudTT"
+      ],
+      "created_at": "2025-04-30T02:48:10.593954+07:00",
+      "expiration_date": "2025-05-01T02:48:05.318199+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT8374131",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfZDdjNTdhNTc4MmU1NDk3MGE1ZDUyZmU=",
+      "shortened_urls": [
+        "https://yeumoney.com/qWZNhH"
+      ],
+      "created_at": "2025-04-30T08:18:52.467382+07:00",
+      "expiration_date": "2025-05-01T08:18:46.501069+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83757595474",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "57595474-61c0-4480-a4bf-99c0c5454e2e",
+      "shortened_urls": [
+        "https://yeumoney.com/JcZBMXqhk",
+        "https://yeumoney.com/SpuvwgmB",
+        "https://yeumoney.com/j10U",
+        "https://yeumoney.com/P5vOmM",
+        "https://yeumoney.com/GKb1i4X"
+      ],
+      "created_at": "2025-04-30T09:49:56.267618+07:00",
+      "expiration_date": "2025-05-03T09:49:50.270858+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83785942526",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "e8594a2c-5265-4967-8fa0-6d6db9c2d802",
+      "shortened_urls": [
+        "https://yeumoney.com/TISFmfJiF"
+      ],
+      "created_at": "2025-04-30T14:30:14.510151+07:00",
+      "expiration_date": "2025-05-01T14:30:09.195811+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83712058574",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "12058bfa-574e-4229-b79d-8dd43556bc87",
+      "shortened_urls": [
+        "https://yeumoney.com/X2Qo-zXMp6",
+        "https://yeumoney.com/Y2g5pwj",
+        "https://yeumoney.com/3BvSK",
+        "https://yeumoney.com/nV3YMWqd1p",
+        "https://yeumoney.com/N2BF1"
+      ],
+      "created_at": "2025-04-30T15:30:29.531300+07:00",
+      "expiration_date": "2025-05-03T15:30:24.177111+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83734003",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfZWUwYmQ3OGVlYmI4Yjk0MjA0MmU3NGI=",
+      "shortened_urls": [
+        "https://yeumoney.com/SVOj-r"
+      ],
+      "created_at": "2025-04-30T15:40:54.937145+07:00",
+      "expiration_date": "2025-05-01T15:40:49.438217+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83787823305",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "8782e330-e504-418a-804b-b125298624a7",
+      "shortened_urls": [
+        "https://yeumoney.com/iLUaPrac-4kz"
+      ],
+      "created_at": "2025-04-30T15:57:50.436293+07:00",
+      "expiration_date": "2025-05-01T15:57:44.954925+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT83759645224",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "f59aa6ba-4522-43f1-b35b-2f7eb985875b",
+      "shortened_urls": [
+        "https://yeumoney.com/yTSxwDO"
+      ],
+      "created_at": "2025-04-30T16:06:09.595673+07:00",
+      "expiration_date": "2025-05-01T16:06:04.201806+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT5422",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfYzhlNWQwY2IzY2ViNmFjNTZjMGFjYmI=",
+      "shortened_urls": [
+        "https://yeumoney.com/uaubA"
+      ],
+      "created_at": "2025-05-01T11:53:37.536940+07:00",
+      "expiration_date": "2025-05-02T11:53:32.035031+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT5478290154",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "fd782ba9-01f5-407a-b601-d6c62e900a1f",
+      "shortened_urls": [
+        "https://yeumoney.com/Di22TO"
+      ],
+      "created_at": "2025-05-01T16:58:09.450437+07:00",
+      "expiration_date": "2025-05-02T16:58:04.007435+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT815313",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfMzRlZGEwYjA5MmFlNGQ3NTk1NTA3MmU=",
+      "shortened_urls": [
+        "https://yeumoney.com/RF9KB"
+      ],
+      "created_at": "2025-05-02T14:01:09.811055+07:00",
+      "expiration_date": "2025-05-03T14:01:04.232013+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT10894787609",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "f947876d-0a9a-42b0-8a48-5cd0ab2c80c4",
+      "shortened_urls": [
+        "https://yeumoney.com/FC-acBE0"
+      ],
+      "created_at": "2025-05-03T13:51:46.231912+07:00",
+      "expiration_date": "2025-05-04T13:51:40.674357+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT10800474447",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "00d4ca74-4d47-45d6-9c33-9bdcd312e0cd",
+      "shortened_urls": [
+        "https://yeumoney.com/eUGI4VSi6p"
+      ],
+      "created_at": "2025-05-03T13:55:28.744392+07:00",
+      "expiration_date": "2025-05-04T13:55:23.069044+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KTT162003",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfZDk0MGFiYWI0MDhkNDllZGI3NzBjYzc=",
+      "shortened_urls": [
+        "https://yeumoney.com/ebKKiG7G"
+      ],
+      "created_at": "2025-05-05T06:36:32.300039+07:00",
+      "expiration_date": "2025-05-06T06:36:26.857354+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    }
+  ],
+  "deleted_keys": [
+    {
+      "key": "KTT67556115429",
+      "device_id": "56cdcdb1-ab15-4298-aca5-c40d0f78",
+      "deleted_at": "2025-04-24T20:30:25.936047+07:00"
+    },
+    {
+      "key": "KTT67556115429",
+      "device_id": "56cdcdb1-ab15-4298-aca5-c40d0f78",
+      "deleted_at": "2025-04-24T20:32:22.582448+07:00"
+    },
+    {
+      "key": "KTT67556115429",
+      "device_id": "56cdcdb1-ab15-4298-aca5-c40d0f78",
+      "deleted_at": "2025-04-24T20:55:17.876501+07:00"
+    }
+  ],
+  "blacklisted_devices": [
+    "56cdcdb1-ab15-4298-aca5-c40d0f78",
+    "56cdcdb1-ab15-4298-a5-00f78",
+    "c87eae8b-e6bc-4ab7-8677-6cf006e17e86"
+  ]
+}
