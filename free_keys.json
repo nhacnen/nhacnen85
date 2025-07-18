@@ -148,20 +148,6 @@
       "disabled": false
     },
     {
-      "key": "KTT8101",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "SERfMzU1ZWQxYTIzOGJmYjUyNDMyODdkNTc=",
-      "shortened_urls": [
-        "https://yeumoney.com/z-5rHaGrn"
-      ],
-      "created_at": "2025-04-29T12:01:26.221521+07:00",
-      "expiration_date": "2025-04-30T12:01:20.804642+07:00",
-      "duration_minutes": 1440,
-      "is_active": true,
-      "disabled": false
-    },
-    {
       "key": "KTT8103212",
       "key_type": "free",
       "status": "used",
@@ -686,6 +672,21 @@
       ],
       "created_at": "2025-07-18T08:50:54.906962+07:00",
       "expiration_date": "2025-07-19T08:50:50.711218+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "SCV4861",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfMzU1ZWQxYTIzOGJmYjUyNDMyODdkNTc=",
+      "shortened_urls": [
+        "https://shrinkme.ink/dBOrfmu",
+        "https://link2m.com/CXqWjBRQ"
+      ],
+      "created_at": "2025-07-18T10:07:50.089437+07:00",
+      "expiration_date": "2025-07-19T10:07:45.946752+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
