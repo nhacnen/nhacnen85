@@ -815,7 +815,7 @@
     {
       "key": "SCV54086017984",
       "key_type": "free",
-      "status": "used",
+      "status": "deleted",
       "device_id": "ce8fd6-017-e9d8422-841b",
       "shortened_urls": [
         "https://shrinkme.ink/rXwYnC",
@@ -824,8 +824,8 @@
       "created_at": "2025-07-19T15:03:59.689640+07:00",
       "expiration_date": "2025-07-20T15:03:55.581590+07:00",
       "duration_minutes": 1440,
-      "is_active": true,
-      "disabled": false
+      "is_active": false,
+      "disabled": true
     }
   ],
   "deleted_keys": [
@@ -848,6 +848,7 @@
   "blacklisted_devices": [
     "56cdcdb1-ab15-4298-aca5-c40d0f78",
     "56cdcdb1-ab15-4298-a5-00f78",
-    "c87eae8b-e6bc-4ab7-8677-6cf006e17e86"
+    "c87eae8b-e6bc-4ab7-8677-6cf006e17e86",
+    "ce8fd6-017-e9d8422-841b"
   ]
 }
