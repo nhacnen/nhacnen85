@@ -873,21 +873,6 @@
       "disabled": false
     },
     {
-      "key": "SCV64812541969",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "12c54196-9042-46d9-926a-84bcf0beee9c",
-      "shortened_urls": [
-        "https://shrinkme.ink/3Nbll5",
-        "https://link2m.com/WqwKSAq"
-      ],
-      "created_at": "2025-07-23T18:06:48.781984+07:00",
-      "expiration_date": "2025-07-24T18:06:44.408845+07:00",
-      "duration_minutes": 1440,
-      "is_active": true,
-      "disabled": false
-    },
-    {
       "key": "SCV64881508611",
       "key_type": "free",
       "status": "used",
@@ -1033,6 +1018,21 @@
       ],
       "created_at": "2025-07-24T21:48:36.784677+07:00",
       "expiration_date": "2025-07-25T21:48:32.305520+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "SCV67512541969",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "12c54196-9042-46d9-926a-84bcf0beee9c",
+      "shortened_urls": [
+        "https://shrinkme.ink/llrLBkZ",
+        "https://link2m.com/N7vyUfJN"
+      ],
+      "created_at": "2025-07-24T22:22:54.311510+07:00",
+      "expiration_date": "2025-07-25T22:22:49.798224+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
