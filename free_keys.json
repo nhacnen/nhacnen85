@@ -1503,16 +1503,16 @@
       "disabled": false
     },
     {
-      "key": "SCV8137418516",
+      "key": "SCV8154674156",
       "key_type": "free",
       "status": "used",
-      "device_id": "a374b185-de16-430a-bc0e-818b1ab3b85a",
+      "device_id": "5f4d674156544451436e5b56495a4d",
       "shortened_urls": [
-        "https://shrinkme.ink/NC1slj8e",
-        "https://link2m.com/aR6YOP"
+        "https://shrinkme.ink/VDSIT",
+        "https://link2m.com/nO7tE"
       ],
-      "created_at": "2025-08-02T15:28:14.639615+07:00",
-      "expiration_date": "2025-08-03T15:28:10.792679+07:00",
+      "created_at": "2025-08-02T15:29:17.472438+07:00",
+      "expiration_date": "2025-08-03T15:29:13.387926+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
