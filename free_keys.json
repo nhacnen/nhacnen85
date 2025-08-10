@@ -2026,6 +2026,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV29743606336",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "4360633d-6175-47c9-b40c-e11f8c9353cc",
+      "shortened_urls": [
+        "https://shrinkme.ink/pekR",
+        "https://link2m.com/f0QK0Nh"
+      ],
+      "created_at": "2025-08-10T11:59:06.972442+07:00",
+      "expiration_date": "2025-08-11T11:59:02.442110+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
