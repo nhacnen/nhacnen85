@@ -2146,6 +2146,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV32415649085",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "156f4c90-8a57-4777-8cfb-2a8bf3af7b46",
+      "shortened_urls": [
+        "https://shrinkme.ink/5DNN",
+        "https://link2m.com/BITeo"
+      ],
+      "created_at": "2025-08-11T16:33:35.837298+07:00",
+      "expiration_date": "2025-08-12T16:33:32.006606+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
