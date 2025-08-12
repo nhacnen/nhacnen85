@@ -2251,6 +2251,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV35141702",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "qdg4g1hvk70rftrwknxf2ymjcnawlbykyik",
+      "shortened_urls": [
+        "https://shrinkme.ink/opATI7",
+        "https://link2m.com/y0yxL"
+      ],
+      "created_at": "2025-08-12T12:34:13.811320+07:00",
+      "expiration_date": "2025-08-13T12:34:09.322888+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
