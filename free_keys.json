@@ -2731,6 +2731,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV459535132",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "BVTOOL_535132",
+      "shortened_urls": [
+        "https://shrinkme.ink/IGuRw",
+        "https://link2m.com/Jaompgv"
+      ],
+      "created_at": "2025-08-16T21:38:30.145098+07:00",
+      "expiration_date": "2025-08-17T21:38:25.988398+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
