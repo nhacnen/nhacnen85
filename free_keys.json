@@ -3001,6 +3001,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV567880649",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "BVTOOL_880649",
+      "shortened_urls": [
+        "https://shrinkme.ink/NQooVV1w",
+        "https://link2m.com/CemJ4xs7"
+      ],
+      "created_at": "2025-08-20T02:42:28.882237+07:00",
+      "expiration_date": "2025-08-21T02:42:24.674504+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
