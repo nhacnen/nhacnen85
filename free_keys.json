@@ -3526,6 +3526,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV81572972",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "BVTOOL_572972",
+      "shortened_urls": [
+        "https://shrinkme.top/gYbFdn8R",
+        "https://link2m.com/AFUn0bp"
+      ],
+      "created_at": "2025-09-02T22:29:26.439262+07:00",
+      "expiration_date": "2025-09-03T22:29:22.257021+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
