@@ -3927,15 +3927,15 @@
       "disabled": false
     },
     {
-      "key": "SCV56763984975",
+      "key": "SCV56742982504",
       "key_type": "free",
       "status": "used",
-      "device_id": "6b3e9849-75b5-4a78-a954-d3887cc042b7",
+      "device_id": "d42982aa-50fd-425d-bb29-ed17cbf7fe19",
       "shortened_urls": [
-        "https://link2m.com/Pjy7Ogl"
+        "https://link2m.com/J9VkIO0"
       ],
-      "created_at": "2025-09-20T20:48:37.746327+07:00",
-      "expiration_date": "2025-09-21T20:48:33.526716+07:00",
+      "created_at": "2025-09-20T20:48:54.674415+07:00",
+      "expiration_date": "2025-09-21T20:48:49.975070+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
