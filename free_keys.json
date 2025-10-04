@@ -4247,6 +4247,20 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV135869117",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "HCPA_869117",
+      "shortened_urls": [
+        "https://link2m.com/zBeoo"
+      ],
+      "created_at": "2025-10-04T07:56:24.102281+07:00",
+      "expiration_date": "2025-10-05T07:56:19.925872+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
