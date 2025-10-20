@@ -4485,6 +4485,20 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV56755467465",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "554d67465d57445442695f504d55",
+      "shortened_urls": [
+        "https://link2m.com/OWCyFq"
+      ],
+      "created_at": "2025-10-20T16:07:42.847402+07:00",
+      "expiration_date": "2025-10-21T16:07:38.510259+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
