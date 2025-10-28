@@ -4345,20 +4345,6 @@
       "disabled": false
     },
     {
-      "key": "SCV51342485376",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "42485c37-cf6a-45b2-86d9-6d304bf6b95b",
-      "shortened_urls": [
-        "https://link2m.com/puWGW"
-      ],
-      "created_at": "2025-10-18T08:31:54.554405+07:00",
-      "expiration_date": "2025-10-19T08:31:50.024792+07:00",
-      "duration_minutes": 1440,
-      "is_active": true,
-      "disabled": false
-    },
-    {
       "key": "SCV51328558408",
       "key_type": "free",
       "status": "used",
@@ -4718,6 +4704,20 @@
       ],
       "created_at": "2025-10-28T19:39:38.333237+07:00",
       "expiration_date": "2025-10-29T19:39:33.977465+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "SCV78342485376",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "42485c37-cf6a-45b2-86d9-6d304bf6b95b",
+      "shortened_urls": [
+        "https://link2m.com/PZhl8w"
+      ],
+      "created_at": "2025-10-28T19:46:04.230175+07:00",
+      "expiration_date": "2025-10-29T19:46:00.080268+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
