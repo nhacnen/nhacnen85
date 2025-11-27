@@ -4945,18 +4945,19 @@
       "disabled": false
     },
     {
-      "key": "6BEFD7BF",
+      "key": "SCV75664821744",
       "key_type": "free",
-      "status": "deleted",
+      "status": "used",
       "device_id": "cdeb6d482decadf1e74f4fd54e3c62732a7a03fbd908c7d7e57329480a9231ad",
       "shortened_urls": [
-        "https://example.com/verify?device=cdeb6d482decadf1e74f4fd54e3c62732a7a03fbd908c7d7e57329480a9231ad&ip=113.185.42.179&key=6BEFD7BF"
+        "https://link2m.com/Q5FLA5",
+        "https://vuotnhanh.com/sj01"
       ],
-      "created_at": "2025-11-26T21:56:37.322671+07:00",
-      "expiration_date": "2025-11-27T21:56:35.766563+07:00",
+      "created_at": "2025-11-27T18:21:41.682816+07:00",
+      "expiration_date": "2025-11-28T18:21:36.485563+07:00",
       "duration_minutes": 1440,
-      "is_active": false,
-      "disabled": true
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
