@@ -5034,6 +5034,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV29783383797",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "8d3383ce79f7eb42cb1bc4379d8631d575f82569f7b99bf82752a90d2ec736eb861c9c21ce1a06a334ee5d00e6ce63ae3b05ad85220dbb7beeb5f6b28367265c",
+      "shortened_urls": [
+        "https://link2m.com/S5NR5",
+        "https://vuotnhanh.com/Hp1A"
+      ],
+      "created_at": "2025-12-10T14:18:22.206688+07:00",
+      "expiration_date": "2025-12-11T14:18:16.917355+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
