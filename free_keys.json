@@ -5049,6 +5049,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV32435542099",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "3ee5bd542099fb9dd1bb383ff510920b2e1e6607aaf6a7418b31d43b5d205765a9d9355372affeb631bb822e58cb2cd19124bff41a02f987d9168a34a279245e",
+      "shortened_urls": [
+        "https://link2m.com/FVKon",
+        "https://vuotnhanh.com/YGvX"
+      ],
+      "created_at": "2025-12-11T18:50:59.972077+07:00",
+      "expiration_date": "2025-12-12T18:50:55.341165+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
