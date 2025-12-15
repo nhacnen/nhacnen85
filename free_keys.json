@@ -5066,21 +5066,6 @@
       "disabled": false
     },
     {
-      "key": "SCV40501862109",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "0df1ea8621f097a1e48ea1efa83e3038cb6db3070bf8bcad069805623c38fc64d58b542a1f3039e3e23e9651fdaeb6abb06d88722c5731cc9162f25aa7c214bd",
-      "shortened_urls": [
-        "https://link2m.com/hEvuhYd",
-        "https://vuotnhanh.com/trMb"
-      ],
-      "created_at": "2025-12-14T12:39:14.019106+07:00",
-      "expiration_date": "2025-12-15T12:39:01.689554+07:00",
-      "duration_minutes": 1440,
-      "is_active": true,
-      "disabled": false
-    },
-    {
       "key": "SCV40595021170",
       "key_type": "free",
       "status": "used",
@@ -5136,6 +5121,21 @@
       ],
       "created_at": "2025-12-15T12:42:47.384909+07:00",
       "expiration_date": "2025-12-16T12:42:43.184880+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "SCV43201862109",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "0df1ea8621f097a1e48ea1efa83e3038cb6db3070bf8bcad069805623c38fc64d58b542a1f3039e3e23e9651fdaeb6abb06d88722c5731cc9162f25aa7c214bd",
+      "shortened_urls": [
+        "https://link2m.com/1volM",
+        "https://vuotnhanh.com/EZaP"
+      ],
+      "created_at": "2025-12-15T15:52:54.342584+07:00",
+      "expiration_date": "2025-12-16T15:52:49.956217+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
