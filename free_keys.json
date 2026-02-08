@@ -5486,16 +5486,16 @@
       "disabled": false
     },
     {
-      "key": "SCV10835758044",
+      "key": "SCV27035758044",
       "key_type": "free",
       "status": "used",
       "device_id": "fd35cc75cef8f04ce41e8f6b59a8fd8b926ab54efed623f0bf0c19a98ca4ff40cf73ca83a3131ffcc964cd86af031674bb175b7d93b82366bae93fcf7f08d6d5",
       "shortened_urls": [
-        "https://link2m.com/xWUo8",
-        "https://vuotnhanh.com/3KfW"
+        "https://link2m.com/ZPh9o",
+        "https://vuotnhanh.com/45Ay"
       ],
-      "created_at": "2026-02-03T06:05:04.226738+07:00",
-      "expiration_date": "2026-02-04T06:05:00.001544+07:00",
+      "created_at": "2026-02-09T06:06:41.895796+07:00",
+      "expiration_date": "2026-02-10T06:06:37.688728+07:00",
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
