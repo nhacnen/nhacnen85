@@ -5499,6 +5499,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV37804393300",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "043dbbf9a3ded30f05f5da018d91005ea976e202f08303ec9e7bb3d77da89ae42f6d975ffa77c709395959e76cae23a71748004ac25ceafaa13f90b051ba8233",
+      "shortened_urls": [
+        "https://link2m.com/CtRG3N",
+        "https://vuotnhanh.com/NDgp"
+      ],
+      "created_at": "2026-02-13T17:13:43.931623+07:00",
+      "expiration_date": "2026-02-14T17:13:39.641128+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
