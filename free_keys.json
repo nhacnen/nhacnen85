@@ -5514,6 +5514,21 @@
       "duration_minutes": 1440,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "SCV51377589520",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "77e5895207d8be63e9f410cbd92addf2bbf53621c212f2d6bd2557d2685708e4efba7f9a2f5369935dbec01e61da540beb83d9ff611d971858c540ac51e63357",
+      "shortened_urls": [
+        "https://link2m.com/7Fbtv",
+        "https://vuotnhanh.com/ncnv"
+      ],
+      "created_at": "2026-02-18T18:45:06.111309+07:00",
+      "expiration_date": "2026-02-19T18:45:01.818830+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "deleted_keys": [
