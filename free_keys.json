@@ -5641,6 +5641,21 @@
       "device_id": "1c8e0a28d116d251ef8a0ca7b7763afc51877f6367eb6a0e7246851ffe80cfb8b5c42acd7720588640a4832db4951dbb8c127c3fa80fe03284a869ff9c9efc16",
       "expiration_date": "2026-05-11T21:28:40.237420+07:00",
       "disabled": false
+    },
+    {
+      "key": "SCV18974687724",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "746e877c2cedf4dfc92c7fd9650d306b5c664ffad79650b9ab2f1c15e8bd2794e16c1cd726cc66387ad1dbd938ad03ff23417b4228b50bfddfdf7dd166596c47",
+      "shortened_urls": [
+        "https://link2m.com/TPyDdJr",
+        "https://vuotnhanh.com/1Bk3"
+      ],
+      "created_at": "2026-06-06T00:06:36.688743+07:00",
+      "expiration_date": "2026-06-07T00:06:31.880233+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [
